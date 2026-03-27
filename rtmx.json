@@ -1,0 +1,22 @@
+{
+    "version": "0.2.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/rtmx-ai/rtmx/releases/download/v0.2.1/rtmx_0.2.1_windows_amd64.zip",
+            "bin": [
+                "rtmx.exe"
+            ],
+            "hash": "743b3df03474e196c1dbfe6dfab6d89583993d717cdeea56699507028e27d78d"
+        },
+        "arm64": {
+            "url": "https://github.com/rtmx-ai/rtmx/releases/download/v0.2.1/rtmx_0.2.1_windows_arm64.zip",
+            "bin": [
+                "rtmx.exe"
+            ],
+            "hash": "a5cc0314e4bd5e57997d22d789a9875d75af4f03aa7bcb1211b08eb242438584"
+        }
+    },
+    "homepage": "https://rtmx.ai",
+    "license": "Apache-2.0",
+    "description": "Requirements Traceability Matrix toolkit"
+}
