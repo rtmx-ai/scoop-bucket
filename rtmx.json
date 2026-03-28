@@ -1,19 +1,19 @@
 {
-    "version": "0.2.3",
+    "version": "0.2.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rtmx-ai/rtmx/releases/download/v0.2.3/rtmx_0.2.3_windows_amd64.zip",
+            "url": "https://github.com/rtmx-ai/rtmx/releases/download/v0.2.4/rtmx_0.2.4_windows_amd64.zip",
             "bin": [
                 "rtmx.exe"
             ],
-            "hash": "ab69a5584b031ca11b91e9991b01f1eda4b7b60b53f654f3bf5799621f8f6fb3"
+            "hash": "23af83699cf0ce5171a1820d2d88f839c983426dad1a09084662ee475401713b"
         },
         "arm64": {
-            "url": "https://github.com/rtmx-ai/rtmx/releases/download/v0.2.3/rtmx_0.2.3_windows_arm64.zip",
+            "url": "https://github.com/rtmx-ai/rtmx/releases/download/v0.2.4/rtmx_0.2.4_windows_arm64.zip",
             "bin": [
                 "rtmx.exe"
             ],
-            "hash": "f46a99c3fa407069ed793de611750725af4d090e31b11913d19b19a6dc9bfa9e"
+            "hash": "85bd74db404bd9f0426b396a03ebe0b0804a78f4eb06acc7a4d983b6a0c295a3"
         }
     },
     "homepage": "https://rtmx.ai",
